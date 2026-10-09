@@ -48,7 +48,7 @@ export function Hero() {
               <ArrowRight className="size-4" aria-hidden="true" />
             </a>
             <a
-              href="/resume"
+              href="/Abdullah_Qambari_General_Analytics_Resume.pdf"
               className="inline-flex items-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-medium transition-colors hover:bg-white/10"
             >
               <Download className="size-4" aria-hidden="true" />
