@@ -24,7 +24,7 @@ export function ResumeCta() {
                 </div>
               </div>
               <a
-                href="/resume"
+                href="/Abdullah_Qambari_General_Analytics_Resume.pdf"
                 className="inline-flex shrink-0 items-center justify-center gap-2 rounded-full bg-navy px-6 py-3 text-sm font-medium text-navy-foreground transition-opacity hover:opacity-90"
               >
                 <Download className="size-4" aria-hidden="true" />
